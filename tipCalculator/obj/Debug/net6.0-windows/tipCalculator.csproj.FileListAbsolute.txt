@@ -1,0 +1,17 @@
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\bin\Debug\net6.0-windows\tipCalculator.exe
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\bin\Debug\net6.0-windows\tipCalculator.deps.json
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\bin\Debug\net6.0-windows\tipCalculator.runtimeconfig.json
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\bin\Debug\net6.0-windows\tipCalculator.dll
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\bin\Debug\net6.0-windows\tipCalculator.pdb
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\obj\Debug\net6.0-windows\tipCalculator.csproj.AssemblyReference.cache
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\obj\Debug\net6.0-windows\tipCalculator.Form1.resources
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\obj\Debug\net6.0-windows\tipCalculator.csproj.GenerateResource.cache
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\obj\Debug\net6.0-windows\tipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\obj\Debug\net6.0-windows\tipCalculator.AssemblyInfoInputs.cache
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\obj\Debug\net6.0-windows\tipCalculator.AssemblyInfo.cs
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\obj\Debug\net6.0-windows\tipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\obj\Debug\net6.0-windows\tipCalculator.dll
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\obj\Debug\net6.0-windows\refint\tipCalculator.dll
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\obj\Debug\net6.0-windows\tipCalculator.pdb
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\obj\Debug\net6.0-windows\tipCalculator.genruntimeconfig.cache
+C:\Users\priyam\Desktop\webDevelopment\c#\tipCalculator\tipCalculator\obj\Debug\net6.0-windows\ref\tipCalculator.dll
